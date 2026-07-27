@@ -19,8 +19,8 @@
 
 ### 👋 About Me
 
-- 🎓 2025 **B.Tech Computer Science Engineering** graduate from **RGUKT RK-Valley**
-- 💼 Actively looking for **Full-Stack / Backend Developer** roles (fresher) in **Bengaluru**
+- 🎓 2025 **B.Tech Computer Science Engineering** graduate from **RGUKT RK-Valley IIIT**
+- 💼 Actively looking for **Full-Stack / Backend Developer** roles
 - 🛠️ Comfortable across the stack: **MERN**, **Django**, **FastAPI**, **PostgreSQL**, **AWS**
 - 🧠 I learn by *building* — every project below was shipped end-to-end, including deployment and debugging real production issues (cold starts, wheel mismatches, CORS, the works)
 - ⚡ Fun fact: I treat AI as a teacher, not a code generator — I want to *understand* the "why", not just copy the "what"
@@ -41,13 +41,12 @@
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=My-Portfolio&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133/My-Portfolio)
-[![Digital Outpass System](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=Digital-outpass-system&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133/Digital-outpass-system)
-[![YouTube Transcript Generator](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=YouTube-AI-TRANSCRIPT-GENERATOR&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133/YouTube-AI-TRANSCRIPT-GENERATOR)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=My-Portfolio&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133)
+[![Digital Outpass System](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=Digital-outpass-system&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133)
+[![YouTube Transcript Generator](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=YouTube-AI-TRANSCRIPT-GENERATOR&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133)
 
 </div>
 
----
 
 ### 📊 GitHub Stats
 
