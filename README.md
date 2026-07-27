@@ -41,13 +41,11 @@
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=personal-portfolio&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133/My-Portfolio)
-[![Digital Outpass System](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=digital-outpass-system&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133/Digital-outpass-system)
-[![YouTube Transcript Generator](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=ai-youtube-transcript-generator&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133/YouTube-AI-TRANSCRIPT-GENERATOR)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=My-Portfolio&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133/My-Portfolio)
+[![Digital Outpass System](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=Digital-outpass-system&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133/Digital-outpass-system)
+[![YouTube Transcript Generator](https://github-readme-stats.vercel.app/api/pin/?username=sadiqbasha190133&repo=YouTube-AI-TRANSCRIPT-GENERATOR&theme=tokyonight&hide_border=true)](https://github.com/sadiqbasha190133/YouTube-AI-TRANSCRIPT-GENERATOR)
 
 </div>
-
-> ⚠️ Note: replace `repo=...` above with your **exact repo names** — pin cards only render if the repo name matches exactly (case-sensitive) and is public.
 
 ---
 
